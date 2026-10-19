@@ -1,3 +1,14 @@
+> [!NOTE]
+> **Hackathon submission snapshot**
+>
+> This repository preserves the version submitted to **Reinvent the Wheel, 16–18 October 2026**, hosted by [Science Works](https://science.works) and [Inherent Laboratories](https://inherentlabs.ai/).
+>
+> **For the latest version, issues and contributions, visit the original project: [ShivaTeja05/Qpilot](https://github.com/ShivaTeja05/Qpilot).**
+>
+> Submitted version: [`7765f40`](https://github.com/science-works/rtw-2026-axi0n-qpilot/tree/7765f40355d86209226face948c522ccdb1e67bd). This notice was added after submission. Nothing else in the repository has changed.
+
+---
+
 <div align="center">
 
 # qPilot

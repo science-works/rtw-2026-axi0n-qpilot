@@ -1,5 +1,5 @@
 [build-system]
-requires = ["hatchling>=1.25"]
+requires = ["hatchling>=1.33.0"]
 build-backend = "hatchling.build"
 
 [project]
@@ -24,9 +24,9 @@ dependencies = [
   "numpy",
   "scipy",
   "pandas",
-  "pydantic>=2",
-  "mcp>=1.23.0",
-  "gradio>=5",
+  "pydantic>=2.14.1",
+  "mcp>=2.3.0",
+  "gradio>=6.31.0",
   "plotly",
   "pyyaml",
   "filelock",
